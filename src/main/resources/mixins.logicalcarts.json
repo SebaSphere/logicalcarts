@@ -1,0 +1,14 @@
+{
+	"package": "dev.sebastianb.logicalcarts.mixin",
+	"required": true,
+	"refmap": "mixins.logicalcarts.refmap.json",
+	"target": "@env(DEFAULT)",
+	"minVersion": "0.8.5",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"MinecartMixin",
+		"WorldMixin"
+	],
+	"server": [],
+	"client": []
+}

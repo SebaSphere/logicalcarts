@@ -1,6 +1,6 @@
-package com.example.modid;
+package dev.sebastianb.logicalcarts;
 
-import com.example.modid.Tags;
+import dev.sebastianb.logicalcarts.Tags;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.LogManager;
